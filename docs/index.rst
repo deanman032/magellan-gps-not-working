@@ -4,7 +4,7 @@ How to Fix Magellan GPS Not Working Fast? 🛠️🧭
 
 If your **Magellan GPS is not working**, it can be super frustrating — especially when you're trying to get somewhere important. 😩 Whether the screen is frozen, the device won’t turn on, or it keeps losing signal, this guide will help you **fix your Magellan GPS quickly** and easily. ✅
 
-.. image:: start.png
+.. image:: not-working.png
    :alt: My Project Logo
    :width: 400px
    :align: center
